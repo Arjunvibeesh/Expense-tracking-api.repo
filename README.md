@@ -15,6 +15,7 @@ A Python-based expense tracking application that helps you manage and analyze yo
   - Category-wise expense breakdown
   - Daily expense trends
   - Visual charts (bar charts, pie charts, line graphs)
+  - highest expense tracker
 - 🔍 **Advanced Filtering**:
   - Filter expenses by category
   - Filter expenses by date range
